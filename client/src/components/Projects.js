@@ -289,3 +289,4 @@ class Projects extends Component {
 }
 
 export default withStyles (styles) (Projects);
+
